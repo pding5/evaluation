@@ -1,2 +1,3 @@
-# evaluation
-Given various Information related to a customer’s behavior in online shopping websites, we want to create a model that can predict whether that customer will generate revenue for the website's company or not.
+Build a Sequence to Sequence network, which is a model consisting of two separate RNNs called the encoder and decoder. Use this network to do the machine translation job. 
+The encoder helps us to  read an input sequence one item at a time, and outputs a vector at each step. The final output of the encoder is kept as the context vector. The decoder uses this context vector to produce a sequence of outputs one step at a time.
+To improve the result of machine translation, we can use the attention mechanism introduced by Bahdanau et al., which will give the decoder a way to “pay attention” to parts of the input, rather than relying on a single vector. For every step the decoder can select a different part of the input sentence to consider. From this, we can get a more accurate translation result.
