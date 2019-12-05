@@ -42,6 +42,7 @@ The input English sentence can be translated into a French sentence properly.
 ![Result](https://github.com/pding5/translation/blob/master/test_result.png)
 
 The BLEU score of this model for the testing dataset is 0.76.
+![Result](https://github.com/pding5/translation/blob/master/BLEU_result.png)
 
 How to use
 -----
