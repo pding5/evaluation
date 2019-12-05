@@ -23,8 +23,8 @@ NTLK
 Repository structure
 -----
 The model is stored in Machine_translation.ipynb. The structure of the code file is as follows.
-Load data
-Divide data into training and testing using cross-validation
+# Load data
+# Divide data into training and testing using cross-validation
 Encode Model
 Construct attention layer
 Decode Model
@@ -61,5 +61,6 @@ Acknowledgments
 I read a large number of online tutorials for specific parts of the code. Primarily the code that dealt with making a good Gated Recurrent Unit (GRU) and the image processing techniques.
 
 Tensorflow - https://www.tensorflow.org/
+
 Keras - https://keras.io/
 
