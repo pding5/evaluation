@@ -23,8 +23,8 @@ NTLK
 Repository structure
 -----
 The model is stored in Machine_translation.ipynb. The structure of the code file is as follows.
-# Load data
-# Divide data into training and testing using cross-validation
+Load data
+Divide data into training and testing using cross-validation
 Encode Model
 Construct attention layer
 Decode Model
