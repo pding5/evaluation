@@ -10,15 +10,15 @@ Although both English and French belong to Indo-European language and 1/3 Englis
 
 Required Python Packages
 -----
-Numpy
-Unicodedata
-Tensorflow
-Sklearn
-Time
-io
-re
-Matplotlib
-NTLK
+Numpy  
+Unicodedata  
+Tensorflow  
+Sklearn  
+Time  
+io  
+re  
+Matplotlib  
+NTLK  
 
 Repository structure
 -----
